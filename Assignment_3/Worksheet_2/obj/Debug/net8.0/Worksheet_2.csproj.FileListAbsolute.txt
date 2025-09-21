@@ -1,0 +1,14 @@
+C:\Users\jessica\source\repos\Assignment_3\Worksheet_2\bin\Debug\net8.0\Worksheet_2.exe
+C:\Users\jessica\source\repos\Assignment_3\Worksheet_2\bin\Debug\net8.0\Worksheet_2.deps.json
+C:\Users\jessica\source\repos\Assignment_3\Worksheet_2\bin\Debug\net8.0\Worksheet_2.runtimeconfig.json
+C:\Users\jessica\source\repos\Assignment_3\Worksheet_2\bin\Debug\net8.0\Worksheet_2.dll
+C:\Users\jessica\source\repos\Assignment_3\Worksheet_2\bin\Debug\net8.0\Worksheet_2.pdb
+C:\Users\jessica\source\repos\Assignment_3\Worksheet_2\obj\Debug\net8.0\Worksheet_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessica\source\repos\Assignment_3\Worksheet_2\obj\Debug\net8.0\Worksheet_2.AssemblyInfoInputs.cache
+C:\Users\jessica\source\repos\Assignment_3\Worksheet_2\obj\Debug\net8.0\Worksheet_2.AssemblyInfo.cs
+C:\Users\jessica\source\repos\Assignment_3\Worksheet_2\obj\Debug\net8.0\Worksheet_2.csproj.CoreCompileInputs.cache
+C:\Users\jessica\source\repos\Assignment_3\Worksheet_2\obj\Debug\net8.0\Worksheet_2.dll
+C:\Users\jessica\source\repos\Assignment_3\Worksheet_2\obj\Debug\net8.0\refint\Worksheet_2.dll
+C:\Users\jessica\source\repos\Assignment_3\Worksheet_2\obj\Debug\net8.0\Worksheet_2.pdb
+C:\Users\jessica\source\repos\Assignment_3\Worksheet_2\obj\Debug\net8.0\Worksheet_2.genruntimeconfig.cache
+C:\Users\jessica\source\repos\Assignment_3\Worksheet_2\obj\Debug\net8.0\ref\Worksheet_2.dll
