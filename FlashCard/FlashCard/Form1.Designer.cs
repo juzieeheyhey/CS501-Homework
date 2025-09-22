@@ -92,12 +92,13 @@
             // 
             // lblMessage
             // 
-            lblMessage.AutoSize = true;
-            lblMessage.Location = new Point(355, 333);
+            lblMessage.CausesValidation = false;
+            lblMessage.Location = new Point(284, 333);
             lblMessage.Name = "lblMessage";
-            lblMessage.Size = new Size(87, 25);
+            lblMessage.Size = new Size(215, 32);
             lblMessage.TabIndex = 5;
             lblMessage.Text = "Feedback";
+            lblMessage.TextAlign = ContentAlignment.TopCenter;
             // 
             // txtAnswer
             // 

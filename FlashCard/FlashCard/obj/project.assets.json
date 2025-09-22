@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tanish\\source\\repos\\FlashCard\\FlashCard\\FlashCard.csproj",
+      "projectUniqueName": "C:\\Users\\Tanish\\Documents\\CS501-Homework\\FlashCard\\FlashCard\\FlashCard.csproj",
       "projectName": "FlashCard",
-      "projectPath": "C:\\Users\\Tanish\\source\\repos\\FlashCard\\FlashCard\\FlashCard.csproj",
+      "projectPath": "C:\\Users\\Tanish\\Documents\\CS501-Homework\\FlashCard\\FlashCard\\FlashCard.csproj",
       "packagesPath": "C:\\Users\\Tanish\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tanish\\source\\repos\\FlashCard\\FlashCard\\obj\\",
+      "outputPath": "C:\\Users\\Tanish\\Documents\\CS501-Homework\\FlashCard\\FlashCard\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

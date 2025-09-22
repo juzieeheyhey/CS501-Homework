@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Tanish\\source\\repos\\FlashCard\\",
+  "WorkspaceRootPath": "C:\\Users\\Tanish\\Documents\\CS501-Homework\\FlashCard\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62A875A0-07A6-4376-87E5-8B37A643B697}|FlashCard\\FlashCard.csproj|c:\\users\\tanish\\source\\repos\\flashcard\\flashcard\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{62A875A0-07A6-4376-87E5-8B37A643B697}|FlashCard\\FlashCard.csproj|solutionrelative:flashcard\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{62A875A0-07A6-4376-87E5-8B37A643B697}|FlashCard\\FlashCard.csproj|c:\\users\\tanish\\documents\\cs501-homework\\flashcard\\flashcard\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A875A0-07A6-4376-87E5-8B37A643B697}|FlashCard\\FlashCard.csproj|solutionrelative:flashcard\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62A875A0-07A6-4376-87E5-8B37A643B697}|FlashCard\\FlashCard.csproj|c:\\users\\tanish\\source\\repos\\flashcard\\flashcard\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62A875A0-07A6-4376-87E5-8B37A643B697}|FlashCard\\FlashCard.csproj|solutionrelative:flashcard\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62A875A0-07A6-4376-87E5-8B37A643B697}|FlashCard\\FlashCard.csproj|c:\\users\\tanish\\documents\\cs501-homework\\flashcard\\flashcard\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62A875A0-07A6-4376-87E5-8B37A643B697}|FlashCard\\FlashCard.csproj|solutionrelative:flashcard\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Tanish\\source\\repos\\FlashCard\\FlashCard\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Tanish\\Documents\\CS501-Homework\\FlashCard\\FlashCard\\Form1.cs",
               "RelativeDocumentMoniker": "FlashCard\\Form1.cs",
-              "ToolTip": "C:\\Users\\Tanish\\source\\repos\\FlashCard\\FlashCard\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\Tanish\\Documents\\CS501-Homework\\FlashCard\\FlashCard\\Form1.cs [Design]*",
               "RelativeToolTip": "FlashCard\\Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-22T15:11:17.784Z",
@@ -34,13 +34,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Tanish\\source\\repos\\FlashCard\\FlashCard\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Tanish\\Documents\\CS501-Homework\\FlashCard\\FlashCard\\Form1.cs",
               "RelativeDocumentMoniker": "FlashCard\\Form1.cs",
-              "ToolTip": "C:\\Users\\Tanish\\source\\repos\\FlashCard\\FlashCard\\Form1.cs*",
+              "ToolTip": "C:\\Users\\Tanish\\Documents\\CS501-Homework\\FlashCard\\FlashCard\\Form1.cs*",
               "RelativeToolTip": "FlashCard\\Form1.cs*",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAG0AAAAAAAAAAADwv3YAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-22T15:01:15.299Z",
               "EditorCaption": ""

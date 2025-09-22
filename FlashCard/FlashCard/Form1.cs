@@ -22,15 +22,18 @@ namespace FlashCard
             InitializeComponent();
             this.Shown += (_, __) => StartNewSet(); // syntax found online for on-start call
             this.AcceptButton = btnSubmit; // make enter key trigger submit button
+            lblMessage.Text = string.Empty;
             btnSubmit.Enabled = false;
         }
 
+        // Appropriately adjusts counters on the form
         private void UpdateCounters()
         {
             lblQACounter.Text = $"Q {_qIndex + 1}/{totalQuestions}";
             lblAttemptCounter.Text = $"Attempts: {_attempts}/3";
         }
 
+        // Resets all counters and starts a new set of questions
         private void StartNewSet()
         {
             _qIndex = 0;
@@ -41,15 +44,17 @@ namespace FlashCard
 
         private void NextQuestion()
         {
+            // Reset attempts and credit for new question
             _attempts = 0;
             _creditGiven = false;
-            lblMessage.Text = string.Empty;
             txtAnswer.Clear();
             txtAnswer.Focus();
 
+            // Randomly decide addition or subtraction
             bool isAdd = random.Next(2) == 0;
             _op = isAdd ? '+' : '-';
 
+            // Generates numbers and ensures no negative results for subtraction
             int a = random.Next(0, 100);
             int b = random.Next(0, 100);
             if (!isAdd && a < b) (a, b) = (b, a);
@@ -74,13 +79,13 @@ namespace FlashCard
                 if (!_creditGiven) { _score++; _creditGiven = true; }
                 lblMessage.Text = "Correct!";
                 AdvanceOrFinish();
-                // counters will update in NextQuestion() or after finish
             }
             else
             {
                 _attempts++;
                 if (_attempts < 3)
                 {
+                    // whilte attempts are left, give feedback and allow retry
                     lblMessage.Text = "Incorrect, try again.";
                     txtAnswer.Clear();
                     txtAnswer.Focus();
@@ -88,6 +93,7 @@ namespace FlashCard
                 }
                 else
                 {
+                    // out of attempts, move on
                     lblMessage.Text = "Let's try something different.";
                     AdvanceOrFinish();   // NextQuestion() will reset attempts and counters
                 }
@@ -116,7 +122,6 @@ namespace FlashCard
         private void txtAnswer_TextChanged(object sender, EventArgs e)
         {
             btnSubmit.Enabled = !string.IsNullOrWhiteSpace(txtAnswer.Text);
-            lblMessage.Text = string.Empty; // clear message on new input
         }
     }
 }
