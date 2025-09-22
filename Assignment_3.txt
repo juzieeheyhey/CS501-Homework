@@ -47,3 +47,68 @@ True/False:
 8. T
 9. T
 10. F
+
+Chapter 4
+
+Multiple Choice:
+1. C
+2. B
+3. D
+4. A
+5. C
+6. B
+7. C
+8. A
+9. B
+10. A
+11. B
+12. C
+13. A
+14. C
+15. B
+16. D
+17. B
+18. A
+19. C
+20. B
+
+True/False:
+1. F
+2. F
+3. T
+4. T
+5. T
+6. F
+7. T
+8. F
+9. F
+10. F
+
+Chapter 5
+
+Multiple Choice:
+1. A
+2. B
+3. B
+4. D
+5. A
+6. C
+7. B
+8. D
+9. C
+10. A
+11. C
+12. D
+13. B
+14. C
+
+True/False:
+1. T
+2. T
+3. T
+4. F
+5. T
+6. T
+7. T
+8. F
+9. F
