@@ -1,0 +1,16 @@
+C:\Users\jessica\source\repos\Assignment_3\Prob3.14\bin\Debug\net8.0-windows\Prob3.14.exe
+C:\Users\jessica\source\repos\Assignment_3\Prob3.14\bin\Debug\net8.0-windows\Prob3.14.deps.json
+C:\Users\jessica\source\repos\Assignment_3\Prob3.14\bin\Debug\net8.0-windows\Prob3.14.runtimeconfig.json
+C:\Users\jessica\source\repos\Assignment_3\Prob3.14\bin\Debug\net8.0-windows\Prob3.14.dll
+C:\Users\jessica\source\repos\Assignment_3\Prob3.14\bin\Debug\net8.0-windows\Prob3.14.pdb
+C:\Users\jessica\source\repos\Assignment_3\Prob3.14\obj\Debug\net8.0-windows\Prob3._14.Form1.resources
+C:\Users\jessica\source\repos\Assignment_3\Prob3.14\obj\Debug\net8.0-windows\Prob3.14.csproj.GenerateResource.cache
+C:\Users\jessica\source\repos\Assignment_3\Prob3.14\obj\Debug\net8.0-windows\Prob3.14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessica\source\repos\Assignment_3\Prob3.14\obj\Debug\net8.0-windows\Prob3.14.AssemblyInfoInputs.cache
+C:\Users\jessica\source\repos\Assignment_3\Prob3.14\obj\Debug\net8.0-windows\Prob3.14.AssemblyInfo.cs
+C:\Users\jessica\source\repos\Assignment_3\Prob3.14\obj\Debug\net8.0-windows\Prob3.14.csproj.CoreCompileInputs.cache
+C:\Users\jessica\source\repos\Assignment_3\Prob3.14\obj\Debug\net8.0-windows\Prob3.14.dll
+C:\Users\jessica\source\repos\Assignment_3\Prob3.14\obj\Debug\net8.0-windows\refint\Prob3.14.dll
+C:\Users\jessica\source\repos\Assignment_3\Prob3.14\obj\Debug\net8.0-windows\Prob3.14.pdb
+C:\Users\jessica\source\repos\Assignment_3\Prob3.14\obj\Debug\net8.0-windows\Prob3.14.genruntimeconfig.cache
+C:\Users\jessica\source\repos\Assignment_3\Prob3.14\obj\Debug\net8.0-windows\ref\Prob3.14.dll
