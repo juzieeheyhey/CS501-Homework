@@ -1,0 +1,17 @@
+C:\Users\jessica\source\repos\Assignment_3\Prob3.10\bin\Debug\net8.0-windows\Prob3.10.exe
+C:\Users\jessica\source\repos\Assignment_3\Prob3.10\bin\Debug\net8.0-windows\Prob3.10.deps.json
+C:\Users\jessica\source\repos\Assignment_3\Prob3.10\bin\Debug\net8.0-windows\Prob3.10.runtimeconfig.json
+C:\Users\jessica\source\repos\Assignment_3\Prob3.10\bin\Debug\net8.0-windows\Prob3.10.dll
+C:\Users\jessica\source\repos\Assignment_3\Prob3.10\bin\Debug\net8.0-windows\Prob3.10.pdb
+C:\Users\jessica\source\repos\Assignment_3\Prob3.10\obj\Debug\net8.0-windows\Prob3._10.Form1.resources
+C:\Users\jessica\source\repos\Assignment_3\Prob3.10\obj\Debug\net8.0-windows\Prob3._10.Properties.Resources.resources
+C:\Users\jessica\source\repos\Assignment_3\Prob3.10\obj\Debug\net8.0-windows\Prob3.10.csproj.GenerateResource.cache
+C:\Users\jessica\source\repos\Assignment_3\Prob3.10\obj\Debug\net8.0-windows\Prob3.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessica\source\repos\Assignment_3\Prob3.10\obj\Debug\net8.0-windows\Prob3.10.AssemblyInfoInputs.cache
+C:\Users\jessica\source\repos\Assignment_3\Prob3.10\obj\Debug\net8.0-windows\Prob3.10.AssemblyInfo.cs
+C:\Users\jessica\source\repos\Assignment_3\Prob3.10\obj\Debug\net8.0-windows\Prob3.10.csproj.CoreCompileInputs.cache
+C:\Users\jessica\source\repos\Assignment_3\Prob3.10\obj\Debug\net8.0-windows\Prob3.10.dll
+C:\Users\jessica\source\repos\Assignment_3\Prob3.10\obj\Debug\net8.0-windows\refint\Prob3.10.dll
+C:\Users\jessica\source\repos\Assignment_3\Prob3.10\obj\Debug\net8.0-windows\Prob3.10.pdb
+C:\Users\jessica\source\repos\Assignment_3\Prob3.10\obj\Debug\net8.0-windows\Prob3.10.genruntimeconfig.cache
+C:\Users\jessica\source\repos\Assignment_3\Prob3.10\obj\Debug\net8.0-windows\ref\Prob3.10.dll
