@@ -1,0 +1,17 @@
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_3\Prob5.11\bin\Debug\net8.0-windows\Prob5.11.exe
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_3\Prob5.11\bin\Debug\net8.0-windows\Prob5.11.dll
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_3\Prob5.11\obj\Debug\net8.0-windows\Prob5._11.Form1.resources
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_3\Prob5.11\obj\Debug\net8.0-windows\Prob5.11.csproj.GenerateResource.cache
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_3\Prob5.11\obj\Debug\net8.0-windows\Prob5.11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_3\Prob5.11\obj\Debug\net8.0-windows\Prob5.11.AssemblyInfoInputs.cache
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_3\Prob5.11\obj\Debug\net8.0-windows\Prob5.11.AssemblyInfo.cs
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_3\Prob5.11\obj\Debug\net8.0-windows\Prob5.11.csproj.CoreCompileInputs.cache
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_3\Prob5.11\obj\Debug\net8.0-windows\Prob5.11.sourcelink.json
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_3\Prob5.11\obj\Debug\net8.0-windows\Prob5.11.dll
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_3\Prob5.11\obj\Debug\net8.0-windows\refint\Prob5.11.dll
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_3\Prob5.11\obj\Debug\net8.0-windows\Prob5.11.pdb
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_3\Prob5.11\bin\Debug\net8.0-windows\Prob5.11.deps.json
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_3\Prob5.11\bin\Debug\net8.0-windows\Prob5.11.runtimeconfig.json
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_3\Prob5.11\bin\Debug\net8.0-windows\Prob5.11.pdb
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_3\Prob5.11\obj\Debug\net8.0-windows\Prob5.11.genruntimeconfig.cache
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_3\Prob5.11\obj\Debug\net8.0-windows\ref\Prob5.11.dll
