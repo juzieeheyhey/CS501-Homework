@@ -1,0 +1,15 @@
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\BankAccount\BankAccount\bin\Debug\net8.0\BankAccount.exe
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\BankAccount\BankAccount\bin\Debug\net8.0\BankAccount.deps.json
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\BankAccount\BankAccount\bin\Debug\net8.0\BankAccount.runtimeconfig.json
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\BankAccount\BankAccount\bin\Debug\net8.0\BankAccount.dll
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\BankAccount\BankAccount\bin\Debug\net8.0\BankAccount.pdb
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.AssemblyInfoInputs.cache
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.AssemblyInfo.cs
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.sourcelink.json
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.dll
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\BankAccount\BankAccount\obj\Debug\net8.0\refint\BankAccount.dll
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.pdb
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.genruntimeconfig.cache
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\BankAccount\BankAccount\obj\Debug\net8.0\ref\BankAccount.dll
