@@ -1,0 +1,15 @@
+C:\Users\sally\source\repos\juzieeheyhey\CS501-Homework\Assignment_4\Prob7.4\bin\Debug\net8.0\Prob7.4.exe
+C:\Users\sally\source\repos\juzieeheyhey\CS501-Homework\Assignment_4\Prob7.4\bin\Debug\net8.0\Prob7.4.deps.json
+C:\Users\sally\source\repos\juzieeheyhey\CS501-Homework\Assignment_4\Prob7.4\bin\Debug\net8.0\Prob7.4.runtimeconfig.json
+C:\Users\sally\source\repos\juzieeheyhey\CS501-Homework\Assignment_4\Prob7.4\bin\Debug\net8.0\Prob7.4.dll
+C:\Users\sally\source\repos\juzieeheyhey\CS501-Homework\Assignment_4\Prob7.4\bin\Debug\net8.0\Prob7.4.pdb
+C:\Users\sally\source\repos\juzieeheyhey\CS501-Homework\Assignment_4\Prob7.4\obj\Debug\net8.0\Prob7.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sally\source\repos\juzieeheyhey\CS501-Homework\Assignment_4\Prob7.4\obj\Debug\net8.0\Prob7.4.AssemblyInfoInputs.cache
+C:\Users\sally\source\repos\juzieeheyhey\CS501-Homework\Assignment_4\Prob7.4\obj\Debug\net8.0\Prob7.4.AssemblyInfo.cs
+C:\Users\sally\source\repos\juzieeheyhey\CS501-Homework\Assignment_4\Prob7.4\obj\Debug\net8.0\Prob7.4.csproj.CoreCompileInputs.cache
+C:\Users\sally\source\repos\juzieeheyhey\CS501-Homework\Assignment_4\Prob7.4\obj\Debug\net8.0\Prob7.4.sourcelink.json
+C:\Users\sally\source\repos\juzieeheyhey\CS501-Homework\Assignment_4\Prob7.4\obj\Debug\net8.0\Prob7.4.dll
+C:\Users\sally\source\repos\juzieeheyhey\CS501-Homework\Assignment_4\Prob7.4\obj\Debug\net8.0\refint\Prob7.4.dll
+C:\Users\sally\source\repos\juzieeheyhey\CS501-Homework\Assignment_4\Prob7.4\obj\Debug\net8.0\Prob7.4.pdb
+C:\Users\sally\source\repos\juzieeheyhey\CS501-Homework\Assignment_4\Prob7.4\obj\Debug\net8.0\Prob7.4.genruntimeconfig.cache
+C:\Users\sally\source\repos\juzieeheyhey\CS501-Homework\Assignment_4\Prob7.4\obj\Debug\net8.0\ref\Prob7.4.dll

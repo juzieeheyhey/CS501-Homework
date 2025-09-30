@@ -1,0 +1,11 @@
+C:\Users\sally\source\repos\juzieeheyhey\CS501-Homework\Assignment_4\Prob7.10\bin\Debug\Prob7.10.exe.config
+C:\Users\sally\source\repos\juzieeheyhey\CS501-Homework\Assignment_4\Prob7.10\bin\Debug\Prob7.10.exe
+C:\Users\sally\source\repos\juzieeheyhey\CS501-Homework\Assignment_4\Prob7.10\bin\Debug\Prob7.10.pdb
+C:\Users\sally\source\repos\juzieeheyhey\CS501-Homework\Assignment_4\Prob7.10\obj\Debug\Prob7.10.csproj.AssemblyReference.cache
+C:\Users\sally\source\repos\juzieeheyhey\CS501-Homework\Assignment_4\Prob7.10\obj\Debug\Prob7._10.Form1.resources
+C:\Users\sally\source\repos\juzieeheyhey\CS501-Homework\Assignment_4\Prob7.10\obj\Debug\Prob7._10.Properties.Resources.resources
+C:\Users\sally\source\repos\juzieeheyhey\CS501-Homework\Assignment_4\Prob7.10\obj\Debug\Prob7.10.csproj.GenerateResource.cache
+C:\Users\sally\source\repos\juzieeheyhey\CS501-Homework\Assignment_4\Prob7.10\obj\Debug\Prob7.10.csproj.CoreCompileInputs.cache
+C:\Users\sally\source\repos\juzieeheyhey\CS501-Homework\Assignment_4\Prob7.10\obj\Debug\Prob7.10.exe
+C:\Users\sally\source\repos\juzieeheyhey\CS501-Homework\Assignment_4\Prob7.10\obj\Debug\Prob7.10.pdb
+C:\Users\sally\source\repos\juzieeheyhey\CS501-Homework\Assignment_4\Prob7.10\obj\Debug\Prob7.10.exe.config
