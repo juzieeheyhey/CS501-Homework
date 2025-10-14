@@ -1,0 +1,11 @@
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\PersonalLibrary\PersonalLibrary\bin\Debug\PersonalLibrary.exe.config
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\PersonalLibrary\PersonalLibrary\bin\Debug\PersonalLibrary.exe
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\PersonalLibrary\PersonalLibrary\bin\Debug\PersonalLibrary.pdb
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\PersonalLibrary\PersonalLibrary\obj\Debug\PersonalLibrary.csproj.AssemblyReference.cache
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\PersonalLibrary\PersonalLibrary\obj\Debug\PersonalLibrary.Form1.resources
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\PersonalLibrary\PersonalLibrary\obj\Debug\PersonalLibrary.Properties.Resources.resources
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\PersonalLibrary\PersonalLibrary\obj\Debug\PersonalLibrary.csproj.GenerateResource.cache
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\PersonalLibrary\PersonalLibrary\obj\Debug\PersonalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\PersonalLibrary\PersonalLibrary\obj\Debug\PersonalLibrary.exe
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\PersonalLibrary\PersonalLibrary\obj\Debug\PersonalLibrary.pdb
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\PersonalLibrary\PersonalLibrary\obj\Debug\PersonalLibrary.exe.config

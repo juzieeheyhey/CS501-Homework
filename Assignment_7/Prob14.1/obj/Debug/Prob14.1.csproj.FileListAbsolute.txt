@@ -1,0 +1,11 @@
+C:\Users\sally\source\repos\CS501\Assignment_7\Prob14.1\bin\Debug\Prob14.1.exe.config
+C:\Users\sally\source\repos\CS501\Assignment_7\Prob14.1\bin\Debug\Prob14.1.exe
+C:\Users\sally\source\repos\CS501\Assignment_7\Prob14.1\bin\Debug\Prob14.1.pdb
+C:\Users\sally\source\repos\CS501\Assignment_7\Prob14.1\obj\Debug\Prob14.1.csproj.AssemblyReference.cache
+C:\Users\sally\source\repos\CS501\Assignment_7\Prob14.1\obj\Debug\Prob14._1.Form1.resources
+C:\Users\sally\source\repos\CS501\Assignment_7\Prob14.1\obj\Debug\Prob14._1.Properties.Resources.resources
+C:\Users\sally\source\repos\CS501\Assignment_7\Prob14.1\obj\Debug\Prob14.1.csproj.GenerateResource.cache
+C:\Users\sally\source\repos\CS501\Assignment_7\Prob14.1\obj\Debug\Prob14.1.csproj.CoreCompileInputs.cache
+C:\Users\sally\source\repos\CS501\Assignment_7\Prob14.1\obj\Debug\Prob14.1.exe
+C:\Users\sally\source\repos\CS501\Assignment_7\Prob14.1\obj\Debug\Prob14.1.pdb
+C:\Users\sally\source\repos\CS501\Assignment_7\Prob14.1\obj\Debug\Prob14.1.exe.config
