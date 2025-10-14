@@ -1,0 +1,15 @@
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_7\ColorTransformer\bin\Debug\net8.0\ColorTransformer.exe
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_7\ColorTransformer\bin\Debug\net8.0\ColorTransformer.deps.json
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_7\ColorTransformer\bin\Debug\net8.0\ColorTransformer.runtimeconfig.json
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_7\ColorTransformer\bin\Debug\net8.0\ColorTransformer.dll
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_7\ColorTransformer\bin\Debug\net8.0\ColorTransformer.pdb
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_7\ColorTransformer\obj\Debug\net8.0\ColorTransformer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_7\ColorTransformer\obj\Debug\net8.0\ColorTransformer.AssemblyInfoInputs.cache
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_7\ColorTransformer\obj\Debug\net8.0\ColorTransformer.AssemblyInfo.cs
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_7\ColorTransformer\obj\Debug\net8.0\ColorTransformer.csproj.CoreCompileInputs.cache
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_7\ColorTransformer\obj\Debug\net8.0\ColorTransformer.sourcelink.json
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_7\ColorTransformer\obj\Debug\net8.0\ColorTransformer.dll
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_7\ColorTransformer\obj\Debug\net8.0\refint\ColorTransformer.dll
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_7\ColorTransformer\obj\Debug\net8.0\ColorTransformer.pdb
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_7\ColorTransformer\obj\Debug\net8.0\ColorTransformer.genruntimeconfig.cache
+C:\Users\jessica\source\repos\juzieeheyhey\CS501-Homework\Assignment_7\ColorTransformer\obj\Debug\net8.0\ref\ColorTransformer.dll
