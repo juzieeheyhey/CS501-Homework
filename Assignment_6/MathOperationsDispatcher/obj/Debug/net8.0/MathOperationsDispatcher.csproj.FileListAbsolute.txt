@@ -1,0 +1,15 @@
+C:\Users\Tanish\Documents\CS501-Homework\Assignment_7\MathOperationsDispatcher\bin\Debug\net8.0\MathOperationsDispatcher.exe
+C:\Users\Tanish\Documents\CS501-Homework\Assignment_7\MathOperationsDispatcher\bin\Debug\net8.0\MathOperationsDispatcher.deps.json
+C:\Users\Tanish\Documents\CS501-Homework\Assignment_7\MathOperationsDispatcher\bin\Debug\net8.0\MathOperationsDispatcher.runtimeconfig.json
+C:\Users\Tanish\Documents\CS501-Homework\Assignment_7\MathOperationsDispatcher\bin\Debug\net8.0\MathOperationsDispatcher.dll
+C:\Users\Tanish\Documents\CS501-Homework\Assignment_7\MathOperationsDispatcher\bin\Debug\net8.0\MathOperationsDispatcher.pdb
+C:\Users\Tanish\Documents\CS501-Homework\Assignment_7\MathOperationsDispatcher\obj\Debug\net8.0\MathOperationsDispatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanish\Documents\CS501-Homework\Assignment_7\MathOperationsDispatcher\obj\Debug\net8.0\MathOperationsDispatcher.AssemblyInfoInputs.cache
+C:\Users\Tanish\Documents\CS501-Homework\Assignment_7\MathOperationsDispatcher\obj\Debug\net8.0\MathOperationsDispatcher.AssemblyInfo.cs
+C:\Users\Tanish\Documents\CS501-Homework\Assignment_7\MathOperationsDispatcher\obj\Debug\net8.0\MathOperationsDispatcher.csproj.CoreCompileInputs.cache
+C:\Users\Tanish\Documents\CS501-Homework\Assignment_7\MathOperationsDispatcher\obj\Debug\net8.0\MathOperationsDispatcher.sourcelink.json
+C:\Users\Tanish\Documents\CS501-Homework\Assignment_7\MathOperationsDispatcher\obj\Debug\net8.0\MathOperationsDispatcher.dll
+C:\Users\Tanish\Documents\CS501-Homework\Assignment_7\MathOperationsDispatcher\obj\Debug\net8.0\refint\MathOperationsDispatcher.dll
+C:\Users\Tanish\Documents\CS501-Homework\Assignment_7\MathOperationsDispatcher\obj\Debug\net8.0\MathOperationsDispatcher.pdb
+C:\Users\Tanish\Documents\CS501-Homework\Assignment_7\MathOperationsDispatcher\obj\Debug\net8.0\MathOperationsDispatcher.genruntimeconfig.cache
+C:\Users\Tanish\Documents\CS501-Homework\Assignment_7\MathOperationsDispatcher\obj\Debug\net8.0\ref\MathOperationsDispatcher.dll
