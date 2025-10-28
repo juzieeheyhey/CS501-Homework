@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jess\\source\\repos\\Assignment_7\\Prob2\\Prob2.csproj": {}
+    "C:\\Users\\Tanish\\Documents\\CS501-Homework\\Assignment_7\\Prob2\\Prob2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jess\\source\\repos\\Assignment_7\\Prob2\\Prob2.csproj": {
+    "C:\\Users\\Tanish\\Documents\\CS501-Homework\\Assignment_7\\Prob2\\Prob2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jess\\source\\repos\\Assignment_7\\Prob2\\Prob2.csproj",
+        "projectUniqueName": "C:\\Users\\Tanish\\Documents\\CS501-Homework\\Assignment_7\\Prob2\\Prob2.csproj",
         "projectName": "Prob2",
-        "projectPath": "C:\\Users\\jess\\source\\repos\\Assignment_7\\Prob2\\Prob2.csproj",
-        "packagesPath": "C:\\Users\\jess\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jess\\source\\repos\\Assignment_7\\Prob2\\obj\\",
+        "projectPath": "C:\\Users\\Tanish\\Documents\\CS501-Homework\\Assignment_7\\Prob2\\Prob2.csproj",
+        "packagesPath": "C:\\Users\\Tanish\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tanish\\Documents\\CS501-Homework\\Assignment_7\\Prob2\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jess\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tanish\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -71,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
